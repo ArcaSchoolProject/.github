@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150/C7A15B/FFFFFF?text=A" width="120" alt="Arca Logo"/>
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=300,fit=crop/oOWPd7fzF7V0x41N/avatar-500-x-500-px-uUjo6ZrlcxGnMRgo.png" width="120" alt="Arca Logo"/>
   <h1>Arca School Project</h1>
   <h3>Fides et Ratio: A Ordem no Caos Digital</h3>
   <p>
